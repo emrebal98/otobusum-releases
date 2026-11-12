@@ -1,0 +1,10 @@
+{
+  "versionName": "0.2.3",
+  "versionCode": 2003,
+  "apkUrl": "https://github.com/emrebal98/otobusum-releases/releases/download/v0.2.3/Otobusum-0.2.3.apk",
+  "sha256": "37023628a576fa94a39c10d5a423cae5b5fc1087304802ea26d84bf292e9d5e7",
+  "notes": [
+    "Uygulama artık kendini güncelleyebiliyor",
+    "Ekran yan çevrilince dönmüyor"
+  ]
+}
